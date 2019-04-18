@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.util.Log
 
 class MainActivity : AppCompatActivity() {
-    private  val TAG = "ActivitySpy"
+    private val TAG = "ActivitySpy"
     /*
 
      */
