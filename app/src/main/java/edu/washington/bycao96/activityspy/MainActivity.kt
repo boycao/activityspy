@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.util.Log
 
 class MainActivity : AppCompatActivity() {
-    val TAG = "ActivitySpy"
+    private  val TAG = "ActivitySpy"
     /*
 
      */
@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        Log.i(TAG, "onCreate event fired");
+        Log.i(TAG, "onStart event fired");
     }
 
     override fun onRestart() {
