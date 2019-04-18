@@ -1,0 +1,7 @@
+2019-04-18 15:16:17.071 22892-22892/edu.washington.bycao96.activityspy W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@97b707a
+2019-04-18 15:16:17.095 22892-22892/edu.washington.bycao96.activityspy I/ActivitySpy: onCreate event fired
+2019-04-18 15:16:17.141 22892-22892/edu.washington.bycao96.activityspy I/ActivitySpy: onStart event fired
+2019-04-18 15:16:17.145 22892-22892/edu.washington.bycao96.activityspy I/ActivitySpy: onResume event fired
+2019-04-18 15:16:22.206 22892-22892/edu.washington.bycao96.activityspy I/ActivitySpy: onPause event fired
+2019-04-18 15:16:23.363 22892-22892/edu.washington.bycao96.activityspy I/ActivitySpy: onStop event fired
+2019-04-18 15:16:23.366 22892-22892/edu.washington.bycao96.activityspy E/ActivitySpy: We're going down, Captain
